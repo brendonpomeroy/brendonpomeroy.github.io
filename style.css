@@ -1,0 +1,25 @@
+
+body {
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+#content {
+    width: 100%;
+    padding: 100px;
+}
+
+#title {
+    font-size: 50px;
+    text-align: center;
+}
+
+a {
+    color: rgb(219, 20, 27);
+}
