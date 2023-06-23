@@ -1,0 +1,42 @@
+{
+    "beach": {
+        "difficulty": "easy",
+        "letters": ["b", "a", "e", "c", "h", "i", "n", "k", "l", "y"]
+    },
+    "apple": {
+        "difficulty": "easy",
+        "letters": ["p", "a", "p", "l", "e", "i", "n", "k", "l", "y"]
+    },
+    "waves": {
+        "difficulty": "easy",
+        "letters": ["w", "a", "v", "e", "s", "i", "n", "k", "l", "y"]
+    },
+    "dairy": {
+        "difficulty": "easy",
+        "letters": ["d", "a", "r", "c", "h", "i", "n", "k", "l", "y"]
+    },
+    "bells": {
+        "difficulty": "easy",
+        "letters": ["b", "l", "e", "l", "h", "i", "n", "k", "l", "y"]
+    },
+    "smell": {
+        "difficulty": "easy",
+        "letters": ["s", "m", "e", "l", "l", "i", "n", "k", "l", "y"]
+    },
+    "spell": {
+        "difficulty": "easy",
+        "letters": ["s", "p", "e", "l", "l", "i", "n", "k", "l", "y"]
+    },
+    "spine": {
+        "difficulty": "easy",
+        "letters": ["s", "p", "e", "n", "h", "i", "n", "k", "l", "y"]
+    },
+    "seals": {
+        "difficulty": "easy",
+        "letters": ["s", "a", "e", "l", "s", "i", "n", "k", "l", "y"]
+    },
+    "sails": {
+        "difficulty": "easy",
+        "letters": ["s", "a", "i", "l", "sh", "i", "n", "k", "l", "y"]
+    }
+}
