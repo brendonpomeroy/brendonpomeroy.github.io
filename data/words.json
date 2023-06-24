@@ -1,57 +1,1991 @@
 [
-    {
-        "word": "beach",
-        "difficulty": "easy",
-        "letters": ["b", "a", "e", "c", "h", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "apple",
-        "difficulty": "easy",
-        "letters": ["p", "a", "p", "l", "e", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word":"waves",
-        "difficulty": "easy",
-        "letters": ["w", "a", "v", "e", "s", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "dairy",
-        "difficulty": "easy",
-        "letters": ["d", "a", "r", "c", "h", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "bells",
-        "difficulty": "easy",
-        "letters": ["b", "l", "e", "l", "h", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "smell",
-        "difficulty": "easy",
-        "letters": ["s", "m", "e", "l", "l", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "spell",
-        "difficulty": "easy",
-        "letters": ["s", "p", "e", "l", "l", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "spine",
-        "difficulty": "easy",
-        "letters": ["s", "p", "e", "n", "h", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "seals",
-        "difficulty": "easy",
-        "letters": ["s", "a", "e", "l", "s", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "sails",
-        "difficulty": "easy",
-        "letters": ["s", "a", "i", "l", "s", "i", "n", "k", "l", "y"]
-    },
-    {
-        "word": "whale",
-        "difficulty": "easy",
-        "letters": ["w", "h", "a", "l", "e", "i", "n", "k", "l", "y"]
-    }
+      {
+            "word": "tree",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "flower",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "house",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "cat",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "dog",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "car",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "sun",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "moon",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "star",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "cloud",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "mountain",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "river",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "beach",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "boat",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "bird",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "butterfly",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "dragonfly",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "fish",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "heart",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "rainbow",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "smile",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "book",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "cup",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "chair",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "table",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "computer",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "phone",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "guitar",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "piano",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "drums",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ball",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "kite",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "umbrella",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "hat",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "shoes",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "socks",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "dress",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "shirt",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "pants",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "sunglasses",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "clock",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "key",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "lock",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "camera",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "flower pot",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "bicycle",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "airplane",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "train",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "bus",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ship",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "rocket",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "balloon",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "candle",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "cake",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ice cream",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "pizza",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "hamburger",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "apple",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "banana",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "strawberry",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "orange",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "watermelon",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "lemon",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "carrot",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "broccoli",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "mushroom",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "sunflower",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "starfish",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ladybug",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "bee",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ant",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "turtle",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "elephant",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "lion",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "tiger",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "bear",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "monkey",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "dolphin",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "whale",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "shark",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "robot",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "alien",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "superhero",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "princess",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "pirate",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "cowboy",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "fairy",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "wizard",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "castle",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "treasure",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "map",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "flag",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "island",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "jungle",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "lamp",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "notebook",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ocean",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "pencil",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "queen",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "violin",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "window",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "xylophone",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "yacht",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "zebra",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "duck",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "egg",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "fire",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "globe",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "hammer",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "jigsaw",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ladder",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "nest",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "paintbrush",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "quilt",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "volcano",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "zeppelin",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "anchor",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "feather",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "giraffe",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "horse",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "jellyfish",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "kangaroo",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ninja",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "octopus",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "penguin",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "rabbit",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "snake",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "unicorn",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "vampire",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "yeti",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "acorn",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "dragon",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "earth",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "leaf",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "palm tree",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "waterfall",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "art",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "beauty",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "creativity",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "dream",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "emotion",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "freedom",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "hope",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "imagination",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "joy",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "knowledge",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "love",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "music",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "nature",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "peace",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "quiet",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "reflection",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "silence",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "tranquility",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "unity",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "vibrant",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "wisdom",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "youth",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "zest",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "airship",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "cactus",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "dandelion",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "earphones",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "fountain",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "honeycomb",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ice skates",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "lighthouse",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "microphone",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ostrich",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "parachute",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "quill",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "raccoon",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "sandcastle",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "tent",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ukulele",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "volleyball",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "yarn",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "zipper",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "astronaut",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "beehive",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "cannon",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "easel",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "fireworks",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "hiking",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "igloo",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "mosquito",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "night sky",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "ocean waves",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "parrot",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "quokka",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "raindrops",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "sailboat",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "toucan",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "whistle",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "arcade",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "earbuds",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "inkwell",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "jackal",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "kayak",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "laptop",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "maple leaf",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "nightingale",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "saxophone",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "taco",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "whisk",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "abstract",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "canvas",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "design",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "expression",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "gallery",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "harmony",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "journey",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "lines",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "mural",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "orchestra",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "painting",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "sketch",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "texture",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "universe",
+            "difficulty": "medium",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "watercolor",
+            "difficulty": "hard",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      },
+      {
+            "word": "zen",
+            "difficulty": "easy",
+            "letters": [
+                  "a",
+                  "b",
+                  "c"
+            ]
+      }
 ]
